@@ -25,7 +25,10 @@ print("before adding \"sam\": ", str(names))
 names.append("sam")
 print("After adding \"sam\": ", str(names))
 
-#name.insert(0, "ryan")
+names = ["jenny", "alexus"]
+#name.insert(1, "ryan")
+#names = ["jenny", "ryan", "alexus"]
+
 
 #range(x)
 #start: 0
