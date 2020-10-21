@@ -45,7 +45,7 @@
 #     print("false")
 
 # def addTwoIfEven(num):
-#     if(nume % 2 == 0):
+#     if(num % 2 == 0):
 #         return num + 2
 #     else:
 #         return num 

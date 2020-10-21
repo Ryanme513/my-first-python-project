@@ -30,9 +30,9 @@
 # print(names[4])
 # print(names[5])
 # print(names[6])
-names = ["alex", "allistair", "andrew", "angelo", "elijah", "george", "jonathan"]
-for person in names:
-    print(person)
+# names = ["alex", "allistair", "andrew", "angelo", "elijah", "george", "jonathan"]
+# for person in names:
+#     print(person)
 # person = "alex"
 # print(person)
 # person = "allistair"
@@ -41,15 +41,15 @@ for person in names:
 # print(person)
 # rng = list(range(6))
 # print(rng)
-lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-for num in lst:
-    print(num*2)
-print("unmodified list: ", lst)
+# lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+# for num in lst:
+#     print(num*2)
+# print("unmodified list: ", lst)
 #range(6) -> [0, 1, 2, 3, 4, 5]
 #range(8) -> [0, 1, 2, 3, 4, 5, 6, 7]
 #range(len(lst)) -> [0, 1, 2, 3, 4, 5, ... len(lst) - 1]
-list_length = len(lst)
-for index in range(list_length):
-    lst[index] = 2 * lst[index]
-    print(lst[index])
-print("modified list: ", lst)
+# list_length = len(lst)
+# for index in range(list_length):
+#     lst[index] = 2 * lst[index]
+#     print(lst[index])
+# print("modified list: ", lst)
